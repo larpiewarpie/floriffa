@@ -133,7 +133,7 @@ export default function Home() {
         <div className="text-center max-w-3xl w-full container">
           <div className="mb-8 flex justify-center items-center gap-3 logo">
             <div className="relative">
-              <span className="text-4xl font-black text-white tracking-tight logo-text">homicide.lol</span>
+              <span className="text-4xl font-black text-white tracking-tight logo-text">doxxing.cc</span>
               <div className="absolute -inset-1 bg-white/20 blur-xl rounded-full -z-10"></div>
             </div>
             <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-white/10 border border-white/20 rounded-full text-xs font-semibold text-white/90 backdrop-blur-sm">
