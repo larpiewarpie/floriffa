@@ -8,10 +8,9 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "homicide.lol - build your perfect profile",
+  title: "doxxing.cc - build your perfect biolink",
   description:
     "Create a unique identity that represents you across the web. Reserve your username and join our community.",
-  generator: "v0.app",
   icons: {
     icon: [
       {
